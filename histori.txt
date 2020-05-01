@@ -1,0 +1,2 @@
+s Mobile_Legend 3 150000
+h Arena_of_Valor 3 190000

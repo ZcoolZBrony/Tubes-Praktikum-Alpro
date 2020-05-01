@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587822149 source:c:\users\raif haidar darmawan\documents\code blocks\tubes praktikum alpro\main.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
